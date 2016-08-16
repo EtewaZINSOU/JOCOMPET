@@ -1,0 +1,19 @@
+{
+  "name": "webservice/ipformation",
+  "description": "A short description of what your package does",
+
+  "authors": [
+    {
+      "name": "Etewa ZINSOU",
+      "email": "alexis@gmail.com",
+      "homepage": "http://www.naderman.de",
+      "role": "Developer"
+    }
+  ],
+
+  "autoload": {
+    "psr-4": {
+      "Etewa\\": "src/"
+    }
+  }
+}
